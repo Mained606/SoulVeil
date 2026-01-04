@@ -20,6 +20,16 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2582ddfc3a27e4786a629051a3e6108b
+    m_Address: StaticData/CardCatalog
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9c6a8eee7f8544829f39298a4356595
+    m_Address: StaticData/SkinCatalog
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: da1f081363e524dd592ee50c669dce7b
     m_Address: Assets/_Project/Prefabs/PoliceModel.prefab
     m_ReadOnly: 0

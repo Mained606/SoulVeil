@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9f9f2d91dae9405685e8e70d3cead5b, type: 3}
   m_Name: CardCatalog
   m_EditorClassIdentifier: Assembly-CSharp::SoulVeil.Gameplay.Cards.Data.CardCatalog
-  cards: []
+  cards:
+  - {fileID: 11400000, guid: 4a6be82f5108648ebbb1cceae60c09e9, type: 2}
+  - {fileID: 11400000, guid: 4a6be82f5108648ebbb1cceae60c09e9, type: 2}
