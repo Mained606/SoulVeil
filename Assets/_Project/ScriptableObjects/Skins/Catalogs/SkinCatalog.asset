@@ -10,6 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 896ce7d9f077642e99f7d1a07b9f1ba0, type: 3}
-  m_Name: SkinDefinition
+  m_Name: SkinCatalog
   m_EditorClassIdentifier: Assembly-CSharp::SoulVeil.Gameplay.Skins.Data.SkinCatalog
-  skins: []
+  skins:
+  - {fileID: 11400000, guid: ca61d75719d524b23a1d5b1913c7628d, type: 2}
+  - {fileID: 11400000, guid: fb93b5d2cb9ca4fc29955375d01a4951, type: 2}
