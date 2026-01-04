@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0baaa42bd96457590b54a20f9af230, type: 3}
+  m_Name: Card_Base_Player
+  m_EditorClassIdentifier: Assembly-CSharp::SoulVeil.Gameplay.Cards.Data.CardDefinition
+  cardId: card.base.player
+  displayName: Player
